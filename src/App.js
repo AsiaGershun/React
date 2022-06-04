@@ -6,6 +6,8 @@ function App() {
     <>
     <div className='block' >
       <h>Hello</h>
+      <div className='block1'></div>
+      <div className='block1'></div>
     </div>
     </>
   );
